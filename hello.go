@@ -6,6 +6,10 @@ import (
 )
 
 func Hello() string {
+	return "HELLO WORLD"
+}
+
+func Quote() string {
 	return quote.Hello()
 }
 
