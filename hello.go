@@ -6,7 +6,11 @@ import (
 )
 
 func Hello() string {
-	return "HELLO WORLD"
+	return "HELLO WORLD!!"
+}
+
+func Hello2() string {
+	return "HELLO WORLD2"
 }
 
 func Quote() string {
